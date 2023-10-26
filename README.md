@@ -1,4 +1,6 @@
-**UPDATE seems to have been fixed in an app update sometime in 2022. My android and ios apps work fine now without running the custom dns responder in this repo 👍**
+** UPDATE 2023-10-26 - Still needed accross multiple VLANS
+
+~~UPDATE seems to have been fixed in an app update sometime in 2022. My android and ios apps work fine now without running the custom dns responder in this repo 👍~~
 
 # Doorbird between subnets or VLANs mDNS advertiser
 
